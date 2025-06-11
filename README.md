@@ -1,5 +1,7 @@
 # advanced-react
 
+https://www.udemy.com/course/advanced-react/learn/lecture/47271533#overview
+
 Concepts
 
 1. Component Patterns
@@ -47,3 +49,8 @@ Concepts
     - Basics
     - Naigations
     - Advanced
+
+
+Notes
+- Naming conventions not really strict
+- consistency is the most important thing
