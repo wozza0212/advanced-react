@@ -8,3 +8,5 @@
 ## Container Components
 - Used for handling multiple pieces of data
 - Should receive props without relying on data handling
+- Data handling on behalf of child components
+- May use axios or fetch
